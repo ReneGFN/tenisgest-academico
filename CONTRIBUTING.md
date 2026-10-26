@@ -1,24 +1,19 @@
 # Como participar
 
-Esta entrega acadêmica tem como foco requisitos e protótipo da área do professor. Mudanças devem ser pequenas e compreensíveis para o grupo.
+O repositório contém o trabalho até a 3ª etapa, reaproveitando os textos e as imagens do documento do grupo, com foco no professor autônomo.
 
-1. Abra uma issue descrevendo o problema ou sugestão.
-2. Crie uma branch, por exemplo `docs/revisar-requisitos` ou `prototipo/ajustar-agenda`.
-3. Faça a alteração, abra `prototipo/index.html` e confira o resultado.
-4. Abra uma pull request explicando o que mudou e como verificou.
-5. Peça revisão de outro integrante antes de incorporar a alteração à branch principal.
+1. Abra uma issue indicando a seção a corrigir ou completar.
+2. Edite o Markdown em uma branch própria.
+3. Confira os textos, tabelas, imagens e links na visualização do GitHub.
+4. Abra uma pull request explicando a alteração e sua origem.
+5. Peça a revisão de outro integrante antes de incorporar a alteração.
 
-Para revisão, confira se a mudança mantém o recorte do professor, corresponde aos requisitos documentados, funciona no teclado e no celular e não inclui dados reais, credenciais ou arquivos privados. A descrição deve distinguir interação simulada de funcionalidade de produção.
+## Prioridades do grupo
 
-## Entrar no grupo
+- Acrescentar o referencial/marco teórico e suas referências, ausentes no Word recebido.
+- Confirmar a lista de integrantes e o enquadramento no cronograma da disciplina.
+- Revisar o recorte exclusivo do professor e os requisitos correspondentes.
 
-O proprietário adiciona os usuários do GitHub em **Settings → Collaborators → Add people**. Os integrantes precisam aceitar o convite. Este repositório não envia convites automaticamente e não presume quem pertence ao grupo.
+Para adicionar colegas com permissão de edição, o proprietário usa **Settings → Collaborators → Add people** e informa os usuários escolhidos. Cada integrante deve aceitar o convite.
 
-Depois que o grupo confirmar nomes, responsabilidades, disciplina e orientações de entrega, atualize o README com esses dados. A licença de redistribuição também deve ser acordada pelo grupo; repositório público não equivale a concessão automática de licença de código aberto.
-
-## Antes de apresentar
-
-- Revisar a correspondência entre documento, requisitos e telas.
-- Usar o [roteiro](docs/prototipo.md) com nomes fictícios.
-- Conferir se o orientador exige arquivos, modelos ou ferramentas específicos.
-- Não afirmar que funcionalidades futuras, entrevistas ou avaliação com usuários já foram concluídas.
+Use apenas conteúdo do grupo ou com fonte e autorização adequadas. Não publique dados reais de alunos, senhas, chaves ou arquivos privados. As imagens deste repositório são as do protótipo do documento; não é necessário recriá-las nem implementar funcionalidades para esta etapa.

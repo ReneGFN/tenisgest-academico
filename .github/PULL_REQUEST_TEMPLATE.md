@@ -1,11 +1,11 @@
-## O que mudou
+## Alteração
 
-Descreva a alteração e o requisito/tela relacionado.
+Qual seção do trabalho foi alterada?
 
-## Como foi verificado
+## Origem do conteúdo
 
-Descreva os passos realizados e inclua captura de tela quando ajudar.
+Indique o trecho do documento ou as referências utilizadas.
 
-- [ ] Mantém o foco no professor autônomo.
-- [ ] Documentação diferencia simulação de implementação futura.
-- [ ] Não inclui dados reais, credenciais ou arquivos privados.
+- [ ] Mantém o foco no professor e o limite da 3ª etapa.
+- [ ] Textos, imagens, tabelas e links foram conferidos.
+- [ ] Não inclui dados reais ou credenciais.
