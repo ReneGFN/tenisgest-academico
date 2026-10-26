@@ -1,49 +1,28 @@
-# TênisGest
+# TÊNISGEST
 
-### Desenvolvimento de um Sistema de Gestão de Aulas Particulares de Tênis
+**Desenvolvimento de um Sistema de Gestão de Aulas Particulares de Tênis**
 
-**Uma solução digital para organização de alunos, horários e pagamentos**
+`CURSO` Sistemas de Informação
 
-Sistemas de Informação · Pontifícia Universidade Católica de Minas Gerais · Belo Horizonte · 2026
+`DISCIPLINA` Trabalho Interdisciplinar — TI SIGE
 
----
+`SEMESTRE` A confirmar pelo grupo
 
-## Sobre o trabalho
+`INSTITUIÇÃO` Pontifícia Universidade Católica de Minas Gerais
 
-Este repositório reúne o material acadêmico do TênisGest até a **3ª etapa**: os textos do projeto, o protótipo da interface e os requisitos. O conteúdo e as imagens foram reaproveitados do documento do grupo, com adaptação do escopo para o **professor autônomo de tênis**.
+`ANO` 2026
 
-O professor é o único perfil contemplado nesta entrega. Alunos são cadastros administrados por ele; área do aluno, associação e gestor ficam fora do recorte.
+## Descrição do Projeto
 
-## Documentação
+O **TênisGest** tem como objetivo apoiar o professor autônomo de tênis na organização de alunos, horários, quadras, pagamentos e treinos. A proposta surge das dificuldades de manter essas informações em conversas, cadernos e planilhas, que podem causar conflitos de agenda, esquecimento de reposições por chuva e perda do controle das aulas contratadas.
 
-| Parte do trabalho | Conteúdo |
-| --- | --- |
-| [Introdução](docs/introducao.md) | Contexto e proposta do sistema |
-| [Problemática](docs/problematica.md) | Dificuldades de agenda, pagamentos e acompanhamento técnico |
-| [Justificativa](docs/justificativa.md) | Relevância prática e acadêmica |
-| [Objetivos](docs/objetivos.md) | Objetivo geral e objetivos específicos |
-| [Escopo do protótipo](docs/escopo.md) | Telas e limites da proposta para o professor |
-| [Referencial / marco teórico](docs/referencial-teorico.md) | **Pendente: seção não consta no Word recebido** |
-| [Protótipo da interface](docs/prototipo.md) | 12 imagens originais, com as descrições do documento |
-| [Requisitos do sistema](docs/requisitos.md) | Requisitos funcionais e não funcionais |
+A aplicação proposta reúne essas atividades em um único ambiente, permitindo ao professor consultar sua agenda, acompanhar pacotes e mensalidades e registrar o conteúdo trabalhado com cada aluno. Com informações organizadas, busca-se reduzir o tempo dedicado às tarefas administrativas e apoiar o planejamento das aulas e o acompanhamento técnico dos alunos.
 
-## Protótipo
+O público-alvo é o **professor autônomo de tênis**. Nesta proposta acadêmica, os alunos são cadastros administrados pelo professor e não possuem área própria de acesso. Módulos de associação e gestor não integram o escopo.
 
-![Figura 2 — Dashboard da área do professor](docs/imagens/02-dashboard.png)
+**Etapa atual:** documentação e protótipo da interface, organizados até a **3ª etapa** do cronograma. Os textos, as imagens e as descrições foram reaproveitados do documento do grupo. O referencial/marco teórico permanece pendente, pois não consta no material recebido.
 
-As telas representam acesso, painel, agenda, agendamento, alunos, treinos, quadras e financeiro. [Veja todas as imagens e descrições →](docs/prototipo.md)
-
-## Entregas do cronograma
-
-| Etapa | Data no cronograma | Material organizado neste repositório |
-| --- | --- | --- |
-| 1ª | 31/08/2026 | Tema, título e introdução |
-| 2ª | 28/09/2026 | Introdução, problemática, justificativa, objetivos e escopo do protótipo |
-| 3ª | 26/10/2026 | Conteúdo anterior, protótipo e requisitos; referencial/marco teórico ainda pendente no material recebido |
-
-As datas são as previstas no cronograma fornecido; não representam comprovação de postagem ou validação pelo orientador. A metodologia, a versão inicial do app e a versão final pertencem às etapas seguintes e não integram esta entrega.
-
-## Integrantes indicados no documento
+## Integrantes
 
 - Daniela da Silva Lopes
 - João José Cardoso Ribeiro
@@ -53,26 +32,68 @@ As datas são as previstas no cronograma fornecido; não representam comprovaç�
 - Marcos Vinicius Nunes dos Santos
 - Renê Guimarães Ferreira Neto
 
-**Professor indicado no documento:** Paulo Augusto Isnard Santos.
+## Orientador
 
-## Organização
+- Paulo Augusto Isnard Santos
 
-```text
-README.md
-CONTRIBUTING.md
-docs/
-  introducao.md
-  problematica.md
-  justificativa.md
-  objetivos.md
-  escopo.md
-  referencial-teorico.md
-  prototipo.md
-  requisitos.md
-  imagens/                   Telas extraídas do Word
-  organizacao-da-entrega.md   Origem, adaptações e pendência
-```
+## Instruções de Utilização
 
-O material pode ser lido diretamente no GitHub. Não é necessário instalar nem executar um aplicativo. Para colaborar, consulte [CONTRIBUTING.md](CONTRIBUTING.md).
+O material pode ser consultado diretamente pelo navegador, no computador ou no celular, sem instalação. Esta etapa apresenta **imagens e descrições do protótipo**, não um aplicativo em funcionamento.
 
-Fonte: documento “Desenvolvimento de um Sistema de Gestão de Aulas Particulares de Tênis”, fornecido pelo grupo. [Origem e adaptações](docs/organizacao-da-entrega.md).
+1. Comece pela [documentação de contexto](docs/visao-do-projeto.md) para conhecer o problema, a justificativa e os objetivos.
+2. Consulte o [escopo](docs/escopo.md) e os [requisitos](docs/requisitos.md) para entender as funções previstas para o professor.
+3. Abra o [protótipo da interface](docs/prototipo.md) para visualizar as 12 imagens originais e suas descrições. Clique em uma imagem para ampliá-la no GitHub.
+4. Confira a [organização da entrega](docs/organizacao-da-entrega.md) para identificar as adaptações e a pendência do referencial teórico.
+
+As telas apresentam o acesso do professor, o painel inicial, a agenda, o agendamento de aulas, a gestão de alunos, o registro de treinos, as quadras e o controle financeiro. Os dados exibidos são fictícios, conforme informado no documento de origem. A opção de aluno visível na imagem original do login está fora do recorte desta entrega.
+
+## Documentação
+
+| Documento | Conteúdo |
+| --- | --- |
+| [Visão do Projeto](docs/visao-do-projeto.md) | Índice da documentação e identificação do trabalho |
+| [Introdução](docs/introducao.md) | Contexto e proposta do TênisGest |
+| [Problemática](docs/problematica.md) | Dificuldades na rotina do professor |
+| [Justificativa](docs/justificativa.md) | Relevância prática e acadêmica |
+| [Objetivos](docs/objetivos.md) | Objetivo geral e objetivos específicos |
+| [Escopo do Protótipo](docs/escopo.md) | Funcionalidades e limites da proposta |
+| [Referencial / Marco Teórico](docs/referencial-teorico.md) | **Pendente no documento recebido** |
+| [Requisitos do Sistema](docs/requisitos.md) | Requisitos funcionais e não funcionais |
+| [Protótipo da Interface](docs/prototipo.md) | Imagens e descrições das telas |
+| [Organização da Entrega](docs/organizacao-da-entrega.md) | Origem dos materiais, adaptações e pendências |
+
+## Código
+
+O escopo desta entrega é a documentação e a apresentação do protótipo já existente no Word. A implementação do aplicativo pertence às etapas seguintes; não há código de aplicação, banco de dados ou configuração de ambiente para executar nesta versão do repositório.
+
+## Apresentação
+
+![Dashboard da área do professor — imagem original do documento](docs/imagens/02-dashboard.png)
+
+**[Consultar as 12 telas e suas descrições →](docs/prototipo.md)**
+
+O protótipo permite apresentar a proposta de organização da rotina do professor, desde o planejamento das aulas até o acompanhamento dos treinos e pagamentos. As descrições explicam o comportamento previsto para cada tela.
+
+## Entregas até a 3ª Etapa
+
+| Etapa | Data no cronograma | Conteúdo |
+| --- | --- | --- |
+| 1ª | 31/08/2026 | Tema, título e introdução |
+| 2ª | 28/09/2026 | Introdução, problemática, justificativa, objetivos e escopo do protótipo |
+| 3ª | 26/10/2026 | Conteúdo anterior, referencial/marco teórico, protótipo e requisitos |
+
+**Pendência para completar a 3ª etapa:** acrescentar o referencial/marco teórico e suas referências. As datas acima são as previstas no cronograma, sem indicar comprovação de postagem ou aprovação pelo orientador.
+
+## Histórico de Versões
+
+| Data | Revisão |
+| --- | --- |
+| 25/10/2026 | README reorganizado conforme o modelo acadêmico fornecido, com identificação, descrição do projeto, integrantes, orientador e instruções de consulta. |
+| 25/10/2026 | Material organizado até a 3ª etapa com textos, 12 imagens originais e requisitos do documento, no recorte do professor. |
+| 25/10/2026 | Criação do repositório acadêmico independente. |
+
+O [histórico de commits](https://github.com/ReneGFN/tenisgest-academico/commits/main/) registra as revisões dos arquivos. Não foram atribuídas versões de implementação ou funcionalidades que ainda não fazem parte desta etapa.
+
+## Colaboração
+
+As orientações para revisão e participação do grupo estão em [CONTRIBUTING.md](CONTRIBUTING.md). Integrantes e orientador foram transcritos do documento do trabalho. A abreviação TI SIGE consta no cronograma; o semestre curricular deve ser confirmado pelo grupo.
