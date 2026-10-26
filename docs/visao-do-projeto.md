@@ -1,6 +1,7 @@
 # Visão do projeto
 
-**Desenvolvimento de um Sistema de Gestão de Aulas Particulares de Tênis**  
+**Desenvolvimento de um Sistema de Gestão de Aulas Particulares de Tênis**
+
 Uma solução digital para organização de alunos, horários e pagamentos.
 
 Material do trabalho organizado a partir do documento Word fornecido, com recorte para o professor autônomo e estrutura até a 3ª etapa do cronograma.
