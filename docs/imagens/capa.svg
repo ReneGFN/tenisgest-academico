@@ -1,0 +1,59 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="300"
+  viewBox="0 0 1200 300"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">TênisGest</title>
+  <desc id="desc">
+    Gestão de aulas particulares de tênis. Protótipo acadêmico para o professor.
+  </desc>
+  <rect width="1200" height="300" rx="20" fill="#1a3a2a" />
+  <g fill="none" stroke="#c8e63b" stroke-width="2" opacity=".5">
+    <rect x="850" y="42" width="240" height="216" />
+    <path
+      d="M850 150h240M875 42v216m190-216v216M875 94h190m-190 112h190M970 94v112"
+    />
+  </g>
+  <circle cx="1045" cy="110" r="18" fill="#c8e63b" />
+  <text
+    x="64"
+    y="72"
+    font-family="Arial,sans-serif"
+    font-size="14"
+    letter-spacing="3"
+    fill="#c8e63b"
+  >
+    PROJETO ACADÊMICO · 2026
+  </text>
+  <text
+    x="60"
+    y="163"
+    font-family="Arial,sans-serif"
+    font-size="72"
+    font-weight="700"
+    fill="#fff"
+  >
+    TênisGest
+  </text>
+  <text
+    x="64"
+    y="210"
+    font-family="Arial,sans-serif"
+    font-size="23"
+    fill="#e1ebe3"
+  >
+    Organize suas aulas. Foque no tênis.
+  </text>
+  <text
+    x="64"
+    y="259"
+    font-family="Arial,sans-serif"
+    font-size="15"
+    fill="#e1ebe3"
+  >
+    REQUISITOS + PROTÓTIPO · ÁREA DO PROFESSOR
+  </text>
+</svg>
