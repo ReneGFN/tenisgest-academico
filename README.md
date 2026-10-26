@@ -6,7 +6,7 @@
 
 `DISCIPLINA` Trabalho Interdisciplinar — TI SIGE
 
-`SEMESTRE` A confirmar pelo grupo
+`PERÍODO` 7º
 
 `INSTITUIÇÃO` Pontifícia Universidade Católica de Minas Gerais
 
@@ -96,4 +96,4 @@ O [histórico de commits](https://github.com/ReneGFN/tenisgest-academico/commits
 
 ## Colaboração
 
-As orientações para revisão e participação do grupo estão em [CONTRIBUTING.md](CONTRIBUTING.md). Integrantes e orientador foram transcritos do documento do trabalho. A abreviação TI SIGE consta no cronograma; o semestre curricular deve ser confirmado pelo grupo.
+As orientações para revisão e participação do grupo estão em [CONTRIBUTING.md](CONTRIBUTING.md). Integrantes e orientador foram transcritos do documento do trabalho. A abreviação TI SIGE consta no cronograma; o 7º período foi confirmado pelo responsável pelo projeto.
